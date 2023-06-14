@@ -1,0 +1,10 @@
+https://rpc.ankr.com/bsc
+https://eth.llamarpc.com
+https://arb1.croswap.com/rpc
+https://polygon.llamarpc.com
+https://avalanche.public-rpc.com
+https://rpcapi.fantom.network
+https://mainnet.optimism.io
+https://cronos-evm.publicnode.com
+https://evm.kava.io
+wss://forno.celo.org/ws

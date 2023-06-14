@@ -1,0 +1,3 @@
+generate instant,52s 100k
+import 20s 1k
+check, 20m 1000
